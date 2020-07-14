@@ -9,7 +9,6 @@ import (
 	"github.com/gocolly/colly"
 )
 
-// TYPE
 type Repo struct {
 	Name 	      string  
 	Description   string  
@@ -17,7 +16,6 @@ type Repo struct {
 	Users         string
 }
 
-// TYPE
 type Repos struct {
 	Repos string
 }
