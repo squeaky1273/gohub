@@ -1,0 +1,102 @@
+[
+    {
+        "name": "golang /\n\n\n\n      protobuf",
+        "description": "Go support for Google's protocol buffers"
+    },
+    {
+        "name": "OpenDiablo2 /\n\n\n\n      OpenDiablo2",
+        "description": "An open source re-implementation of Diablo 2"
+    },
+    {
+        "name": "projectdiscovery /\n\n\n\n      subfinder",
+        "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing."
+    },
+    {
+        "name": "hashicorp /\n\n\n\n      vault",
+        "description": "A tool for secrets management, encryption as a service, and privileged access management"
+    },
+    {
+        "name": "go-redis /\n\n\n\n      redis",
+        "description": "Type-safe Redis client for Golang"
+    },
+    {
+        "name": "golang /\n\n\n\n      mock",
+        "description": "GoMock is a mocking framework for the Go programming language."
+    },
+    {
+        "name": "evanw /\n\n\n\n      esbuild",
+        "description": "An extremely fast JavaScript bundler and minifier"
+    },
+    {
+        "name": "gorilla /\n\n\n\n      websocket",
+        "description": "A fast, well-tested and widely used WebSocket implementation for Go."
+    },
+    {
+        "name": "flipped-aurora /\n\n\n\n      gin-vue-admin",
+        "description": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~"
+    },
+    {
+        "name": "unknwon /\n\n\n\n      the-way-to-go_ZH_CN",
+        "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》"
+    },
+    {
+        "name": "argoproj /\n\n\n\n      argo",
+        "description": "Argo Workflows: Get stuff done with Kubernetes."
+    },
+    {
+        "name": "spf13 /\n\n\n\n      viper",
+        "description": "Go configuration with fangs"
+    },
+    {
+        "name": "p4gefau1t /\n\n\n\n      trojan-go",
+        "description": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/"
+    },
+    {
+        "name": "nats-io /\n\n\n\n      nats-server",
+        "description": "High-Performance server for NATS, the cloud native messaging system."
+    },
+    {
+        "name": "IBM-Cloud /\n\n\n\n      terraform-provider-ibm",
+        "description": "Terraform IBM provider https://cloud.ibm.com/docs/terraform?topic=terraform-tf-provider"
+    },
+    {
+        "name": "Shopify /\n\n\n\n      sarama",
+        "description": "Sarama is a Go library for Apache Kafka 0.8, and up."
+    },
+    {
+        "name": "googleapis /\n\n\n\n      google-api-go-client",
+        "description": "Auto-generated Google APIs for Go."
+    },
+    {
+        "name": "spf13 /\n\n\n\n      cobra",
+        "description": "A Commander for modern Go CLI interactions"
+    },
+    {
+        "name": "thanos-io /\n\n\n\n      thanos",
+        "description": "Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project."
+    },
+    {
+        "name": "fatedier /\n\n\n\n      frp",
+        "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet."
+    },
+    {
+        "name": "google /\n\n\n\n      exposure-notifications-server",
+        "description": "Exposure Notification Reference Server | Covid-19 Exposure Notifications"
+    },
+    {
+        "name": "grpc /\n\n\n\n      grpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC"
+    },
+    {
+        "name": "coredns /\n\n\n\n      coredns",
+        "description": "CoreDNS is a DNS server that chains plugins"
+    },
+    {
+        "name": "helm /\n\n\n\n      charts",
+        "description": "Curated applications for Kubernetes"
+    },
+    {
+        "name": "minio /\n\n\n\n      minio",
+        "description": "High Performance, Kubernetes Native Object Storage"
+    }
+]
