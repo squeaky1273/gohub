@@ -25,6 +25,8 @@
 ## Description
 📔 Project that jsonifies github related information from projects on the Go Trending page. 📔
 
+![Image of JSON file](screenshot.png)
+
 - [gohub slides](https://docs.google.com/presentation/d/1jsz-4JATC6XNHIoYHyn1htrsLYymYD1Xc8ptPqY-yp0/edit?usp=sharing)
 
 

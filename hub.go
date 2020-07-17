@@ -1,13 +1,13 @@
 package main
 
 import (
- "fmt"
- "encoding/json"
- "io/ioutil"
- "os"
- "log"
- "github.com/gocolly/colly"
- "strings"
+		"fmt"
+		"encoding/json"
+		"io/ioutil"
+		"os"
+		"log"
+		"github.com/gocolly/colly"
+		"strings"
 )
 
 // Repo struct represents what info will be scraped from github trending page
@@ -38,7 +38,7 @@ func scrapeHandler() {
 	c.OnHTML("body > div.application-main > main > div.explore-pjax-container.container-lg.p-responsive.pt-6 > div > div:nth-child(2) > article:nth-child(n)", func(e *colly.HTMLElement) {
 		// Clean up data before assigning to struct
 		repo := Repo{}
-		
+
 		info := e.ChildText("body > div.application-main > main > div.explore-pjax-container.container-lg.p-responsive.pt-6 > div > div:nth-child(2) > article:nth-child(n) > h1")
 		name := strings.Replace(info, "\n\n\n     ", "", -1)
 		repo.Name = name
