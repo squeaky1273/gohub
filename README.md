@@ -18,7 +18,7 @@
 ├── go.sum
 ├── hub.go
 ├── hub_test.go
-├── output.json
+├── results.json
 └── README.md
 ```
 
@@ -29,6 +29,10 @@
 
 
 ## Instructions
+### To get on machine
+```git clone https://github.com/squeaky1273/gohub.git```
+### To run code
+```go run hub.go```
 
 ## Author(s)
 Padyn Riddell -<i>initial work</i>- Backend Web Engineer
