@@ -2,6 +2,8 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/squeaky1273/gohub)](https://goreportcard.com/report/github.com/squeaky1273/gohub)
 
+_Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
+
 ### 📚 Table of Contents
 
 1. [Project Structure](#project_structure)
