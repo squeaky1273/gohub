@@ -31,11 +31,15 @@ _Create your very own web scraper and crawler using Go and [Colly](https://go-co
 
 - [gohub slides](https://docs.google.com/presentation/d/1jsz-4JATC6XNHIoYHyn1htrsLYymYD1Xc8ptPqY-yp0/edit?usp=sharing)
 
+### Future Features</h3>
+- Implement 3rd party API
+- Dockerize
+
 
 ## Instructions
-### To get on machine
+#### To get on machine
 ```git clone https://github.com/squeaky1273/gohub.git```
-### To run code
+#### To run code
 ```go run hub.go```
 
 ## Author(s)
