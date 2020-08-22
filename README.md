@@ -4,7 +4,7 @@
 
 _Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
 
-*note: data in results.json page is not up to date with current information from the trending. This information is an example of how information will show up.
+*Note: Data in results.json page is not up to date with current information from the trending. This information is an example of how information will show up.
 
 ### 📚 Table of Contents
 
