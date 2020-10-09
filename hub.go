@@ -40,7 +40,7 @@ func scrapeHandler() {
 		repo := Repo{}
 
 		info := e.ChildText("body > div.application-main > main > div.explore-pjax-container.container-lg.p-responsive.pt-6 > div > div:nth-child(2) > article:nth-child(n) > h1")
-		name := strings.Replace(info, "\n\n\n     ", "", -1)
+		name := strings.Replace(info, "\n\n     ", "", -1)
 		repo.Name = name
 
 		repo.Description = e.ChildText("body > div.application-main > main > div.explore-pjax-container.container-lg.p-responsive.pt-6 > div > div:nth-child(2) > article:nth-child(n) > p")
